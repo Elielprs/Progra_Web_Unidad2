@@ -1,0 +1,35 @@
+body {
+  background-color: hsl(35, 100%, 90%);
+  font-family: sans-serif;
+}
+
+h1 {
+  color: hsl(35, 100%, 30%);
+  text-transform: uppercase;
+}
+h2{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 0;
+}
+
+p {
+  font-size: 2rem;
+}
+
+p.intro {
+  color: hsl(35, 100%, 50%);
+}
+
+summary {
+  font-size: 4rem;
+}
+
+span.par {
+  background-color: white;
+}
+
+span.impar {
+  background-color: hsl(325, 100%, 90%);
+}
